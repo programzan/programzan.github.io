@@ -1,1 +1,3 @@
-# programzan.github.io
+# Сайт с моими учебными заданиями и рабочими проектами.
+
+## Адрес сайта: programzan.github.io
